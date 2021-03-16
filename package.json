@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/levyitay/react-js-cron-mui/issues"
   },
- 
+
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/cjs/index.d.ts",
@@ -42,8 +42,7 @@
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0",
-    "@material-ui/core": ">=4.0.0",
-    "fontsource-roboto": "^4.0.0"
+    "@material-ui/core": ">=4.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
@@ -76,7 +75,6 @@
     "@material-ui/core": "^4.11.2"
   },
   "dependencies": {
-  
-   
+    "fontsource-roboto": "^4.0.0"
   }
 }
